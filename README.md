@@ -1,12 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# rcli
-Geektime rust CLI projects
-=======
-# Geektime Rust 语言训练营
-=======
+
 # RCLI
->>>>>>> 8aee36b (initial commit)
 
 ## 环境设置
 
